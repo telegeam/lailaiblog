@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
-categories: jekyll
-tags: jekyll RubyGems
+title:  "周易运势"
+categories: 周易运势
+tags: 周易运势 
 ---
 
 * content
