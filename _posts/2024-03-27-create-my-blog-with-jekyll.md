@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "周易运势"
-categories: 周易运势
+categories: jekyll
 tags: 周易运势 
 ---
 
